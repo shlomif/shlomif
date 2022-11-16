@@ -17,9 +17,13 @@ I have a [page with contact info](https://www.shlomifish.org/me/contact-me/).
 
 I consider myself a [Hacker Monarch](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs),
 which is what I call "a messiah", a world savior, keeper of the faith, etc.
-and recommend every man, woman, of any age, to follow suit.
+and recommend every man and woman, of any age, to follow suit.
 ["I am my brothers' keeper."](https://en.wikipedia.org/wiki/Cain_and_Abel).
 
-My current (2021) mid-term objective is:
+My mission is described in:
+
+* [Multiverse Cosmology](https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also)
+
+It replaces my 2021 short-term objective which was:
 
 * ["Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as 2021 geek/hacker imperatives for revitalising the film industry"](https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/) (or **Promoting Commercial Fanfiction** for short).
